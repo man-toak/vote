@@ -1,5 +1,4 @@
-This is my Final Year Project System. Simple but nice!
+This is my test Project System for UiTM. Simple but works!
 
 Project Name: UiTM Voting System
-Developer: Muhammad Iqbal
-Email: Iqbal1234@gmail.com
+Developer: Muhammad Aiman
